@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Invitation for Team</title>
+</head>
+
+<body>
+    <p>Dear
+        <%= playerName %>,</p>
+
+    <p> You have been invited by <%= teamName %> to offer your services as Player.</p>
+
+   <p>Please Click at Link Below to accept/deny offer  for <%= teamName %></p>
+
+        <a href="<%= token %>">
+            <%= token %>
+                </a>
+    <p>Thanks For your Time..</p>
+    <p></p>
+    <p>Regards,</p>
+    <p>Kajeni</p>
+</body>
+
+</html>

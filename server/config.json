@@ -1,0 +1,9 @@
+{
+  "PORT": 3000,
+  "Image_URL":"/",
+  "BASE_URL":"/",
+  "CONFIRMATION_URL":"/teamconfirmation",
+  "MONGO_CONNECTIONnn": "mongodb://gamer:gamer123@ds137763.mlab.com:37763/game",
+  "TOKEN_SECRET": "TOKENSECRET321",
+  "MONGO_CONNECTION": "mongodb+srv://adilkazmi:<hello1234>@wagergames-jyomv.mongodb.net/test?retryWrites=true&w=majority"
+}
