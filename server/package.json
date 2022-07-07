@@ -20,7 +20,7 @@
     "joi": "^13.6.0",
     "jsonwebtoken": "^8.3.0",
     "jwt-simple": "^0.5.5",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "mongoose": "^5.2.13",
     "morgan": "^1.9.1",
     "multer": "^1.4.1",
